@@ -7,7 +7,7 @@ cd ./assets
 npm install
 
 if npm run build; then
-  git commit -m "COMPX341-22A-A3 Commiting from CI/CD Pipeline"
+  git commit -m "$1"
 else
   echo 'Failed to build, did not commit.'
   exit 1
