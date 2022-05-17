@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { CategoryNavBar } from "./categoryNavBar/CategoryNavBar";
 import { SearchBar } from "../search/searchBar/SearchBar";
-import { BestSellersBar } from "../bestSellers/bestSellersBar/BestSellersBar";
+import { BestSellersBar } from "../bestSellers/bestSellersBar/correct_BestSellersBar";
 import { CategoryGallery } from "./CategoryGallery";
 
 import database from "../../images/hero/hero-database.png";

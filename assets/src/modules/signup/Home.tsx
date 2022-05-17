@@ -6,7 +6,7 @@ import yourshoppingcart from "../../images/yourshoppingcart.png";
 import { Hero } from "../../common/hero/Hero";
 import { CategoryNavBar } from "../category/categoryNavBar/CategoryNavBar";
 import { SearchBar } from "../search/searchBar/SearchBar";
-import { BestSellersBar } from "../bestSellers/bestSellersBar/BestSellersBar";
+import { BestSellersBar } from "../bestSellers/bestSellersBar/correct_BestSellersBar";
 import { CategoryGalleryTeaser } from "../category/CategoryGalleryTeaser";
 import { FriendsBought } from "../friends/FriendsBought";
 import { LinkContainer } from "react-router-bootstrap";

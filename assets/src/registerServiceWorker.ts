@@ -1,3 +1,4 @@
+// Ethan McKee-Harris - ID 1536943
 //
 // In production, we register a service worker to serve assets from local cache.
 
